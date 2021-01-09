@@ -1,0 +1,215 @@
+Barista: Kiefuh
+Order Number: 0
+________________
+House Blend	2.00
+ -Mocha		1.00
+ -Steamed Milk	0.50
+ -Soy		0.75
+Dark Roast	2.25
+ -Steamed Milk	0.50
+ -Mocha		1.00
+tax(8.625%):	.69
+total:	8.69
+
+Barista: Kiefuh
+Order Number: 1
+________________
+House Blend	2.00
+Dark Roast	2.25
+ -Soy		0.75
+ -Steamed Milk	0.50
+tax(8.625%):	.47
+total:	5.97
+
+Barista: Kiefuh
+Order Number: 2
+________________
+Decaf		2.50
+ -Steamed Milk	0.50
+ -Mocha		1.00
+tax(8.625%):	.34
+total:	4.34
+
+Barista: Kiefuh
+Order Number: 3
+________________
+Dark Roast	2.25
+ -Steamed Milk	0.50
+ -Steamed Milk	0.50
+tax(8.625%):	.28
+total:	3.53
+
+Barista: Kiefuh
+Order Number: 4
+________________
+Dark Roast	2.25
+ -Mocha		1.00
+ -Soy		0.75
+ -Steamed Milk	0.50
+Decaf		2.50
+ -Steamed Milk	0.50
+ -Mocha		1.00
+Dark Roast	2.25
+ -Mocha		1.00
+ -Steamed Milk	0.50
+tax(8.625%):	1.06
+total:	13.31
+
+Barista: Kiefuh
+Order Number: 5
+________________
+House Blend	2.00
+ -Steamed Milk	0.50
+ -Soy		0.75
+Dark Roast	2.25
+ -Steamed Milk	0.50
+Decaf		2.50
+ -Steamed Milk	0.50
+ -Mocha		1.00
+tax(8.625%):	.86
+total:	10.86
+
+Barista: Kiefuh
+Order Number: 6
+________________
+Espresso		3.00
+ -Whipped Milk	0.50
+Sandwich	5.00
+Sandwich	5.00
+tax(8.625%):	1.16
+total:	14.66
+
+Barista: Kiefuh
+Order Number: 7
+________________
+Espresso		3.00
+ -Whipped Milk	0.50
+Sandwich	5.00
+tax(8.625%):	.73
+total:	9.23
+
+Barista: Kiefuh
+Order Number: 8
+________________
+House Blend	2.00
+ -Soy		0.75
+ -Steamed Milk	0.50
+Sandwich	5.00
+tax(8.625%):	.71
+total:	8.96
+
+Barista: Quinn
+Order Number: 9
+________________
+House Blend	2.00
+ -Soy		0.75
+ -Steamed Milk	0.50
+Sandwich	5.00
+Decaf		2.50
+ -Mocha		1.00
+tax(8.625%):	1.01
+total:	12.76
+
+Barista: Test
+Order Number: 10
+________________
+Dark Roast	2.25
+ -Mocha		1.00
+ -Soy		0.75
+ -Steamed Milk	0.50
+Espresso		3.00
+ -Steamed Milk	0.50
+ -Mocha		1.00
+ -Whipped Milk	0.50
+Sandwich	5.00
+tax(8.625%):	1.25
+total:	15.75
+
+Barista: Kiefuh
+Order Number: 11
+________________
+House Blend	2.00
+ -Soy		0.75
+Sandwich	5.00
+Dark Roast	2.25
+ -Mocha		1.00
+ -Steamed Milk	0.50
+tax(8.625%):	.99
+total:	12.49
+
+Barista: Kiefuh
+Order Number: 12
+________________
+Sandwich	5.00
+tax(8.625%):	.43
+total:	5.43
+
+Barista: Kiefuh
+Order Number: 13
+________________
+Dark Roast	2.25
+ -Steamed Milk	0.50
+ -Steamed Milk	0.50
+tax(8.625%):	.28
+total:	3.53
+
+Barista: Kiefuh
+Order Number: 14
+________________
+House Blend	2.00
+ -Steamed Milk	0.50
+ -Soy		0.75
+Dark Roast	2.25
+ -Steamed Milk	0.50
+Decaf		2.50
+ -Mocha		1.00
+Sandwich	5.00
+tax(8.625%):	1.25
+total:	15.75
+
+Barista: Kiefuh
+Order Number: 15
+________________
+House Blend	2.00
+ -Soy		0.75
+Sandwich	5.00
+Dark Roast	2.25
+ -Soy		0.75
+ -Steamed Milk	0.50
+Decaf		2.50
+ -Mocha		1.00
+tax(8.625%):	1.27
+total:	16.02
+
+Barista: Kiefuh
+Order Number: 16
+________________
+House Blend	2.00
+ -Steamed Milk	0.50
+ -Soy		0.75
+Dark Roast	2.25
+ -Steamed Milk	0.50
+Sandwich	5.00
+Decaf		2.50
+ -Whipped Milk	0.50
+ -Mocha		1.00
+tax(8.625%):	1.29
+total:	16.29
+
+Barista: Kiefuh
+Order Number: 17
+________________
+House Blend	2.00
+ -Mocha		1.00
+ -Steamed Milk	0.50
+ -Soy		0.75
+Dark Roast	2.25
+ -Mocha		1.00
+ -Soy		0.75
+ -Steamed Milk	0.50
+Decaf		2.50
+ -Mocha		1.00
+Sandwich	5.00
+tax(8.625%):	1.49
+total:	18.74
+
